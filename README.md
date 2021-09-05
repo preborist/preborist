@@ -1,8 +1,6 @@
-
-
 <p align="center">
-  ### Hi there, I'm Serhii! 👋
   <samp>
+    Hi there, I'm Serhii! 👋 <br>
     🔥Front-End Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, ReactJS, NextJS ... <br>
     :email:	preborist@gmail.com <br>
