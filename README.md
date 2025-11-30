@@ -10,7 +10,7 @@
     Specializing in <b>React Ecosystem, Real-time Systems (SignalR/WebSockets), and AI Integration</b>.
   </p>
 
-  <a href="https://www.linkedin.com/in/ВАШ_ЛІНК_ТУТ/">
+  <a href="https://www.linkedin.com/in/serhii-koziuba-6062b177/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:preborist@gmail.com">
